@@ -17,13 +17,14 @@ img{
     max-width: 500px;
     padding-left: 50px;
     padding-right: 50px;
+    border-radius: 50%;
 }
 
 ul{
    list-style-type: none;
    margin: 0;
    padding: 0;
-   margin-top: 50px;
+   margin-top: 25px;
 }
 
 li{
