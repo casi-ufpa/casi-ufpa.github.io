@@ -33,4 +33,5 @@ li{
    background-color: #003a84;
    border-radius: 15px;
    color: white;
+   max-width: 500px;
 }
