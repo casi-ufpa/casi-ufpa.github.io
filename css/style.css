@@ -26,6 +26,8 @@ ul{
 
 li{
    padding: 10px;
-   background-color: blue;
+   margin: 10px;
+   background-color: #003a84;
    border-radius: 15px;
+   color: white;
 }
